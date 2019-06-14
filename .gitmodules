@@ -1,0 +1,9 @@
+[submodule "aspide-tosca-dsl"]
+	path = aspide-tosca-dsl
+	url = https://github.com/adispataru/aspide-tosca-dsl
+[submodule "aspide-orchestrator"]
+	path = aspide-orchestrator
+	url = https://github.com/adispataru/aspide-orchestrator
+[submodule "aspide-gateway-ui"]
+	path = aspide-gateway-ui
+	url = https://github.com/adispataru/aspide-gateway-ui
